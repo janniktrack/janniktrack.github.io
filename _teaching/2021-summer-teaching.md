@@ -8,4 +8,4 @@ date: 2021-01-01
 location: "City, Country"
 ---
 
-Lecturer: Dr. Christian S. Czymara
+- Lecturer: Dr. Christian S. Czymara
