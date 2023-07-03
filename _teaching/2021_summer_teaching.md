@@ -2,7 +2,7 @@
 title: "Teaching Assistant Longitudinal Data Analysis and Causality"
 collection: teaching
 type: "MA level course course"
-permalink: /teaching/2021_summer_teaching
+permalink: /teaching/2021_summer_teaching.md
 venue: "Department of Sociology, Goethe-University Frankfurt"
 date: Summer 2021
 location: "City, Country"
