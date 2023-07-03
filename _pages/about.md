@@ -15,4 +15,4 @@ I hold a BA and a MA (with distinction) in Political Science from Goethe-Univers
 
 Contact
 -------
-jannik.track@eui.eu
+[jannik.track@eui.eu](mailto:jannik.track@eui.eu)
