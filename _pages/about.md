@@ -12,7 +12,7 @@ Hi! I'm a Sociology PhD Student at the European University Institute (EUI) in Fl
 
 My main research interests are in parental investment and child development. In my dissertation project I study whether parental investment into children differs for siblings in the same family and which parenting logics underlie these decisions.
 
-Please find [my CV here](https://janniktrack.github.io/files/CV_April_2024.pdf). 
+Please find [my CV here](https://janniktrack.github.io/files/CV_May_24_JT.pdf). 
 
 Contact
 -------
