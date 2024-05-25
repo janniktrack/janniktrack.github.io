@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Sociology PhD Student at the European University Institute (EUI) in Florence, Italy. My research interests are in family demography, education, and child development. 
+Hi! I'm a Sociology PhD Student at the European University Institute (EUI) in Florence, Italy. There I co-organize the [Comparative Lifecourse and Inequality Research Centre (CLIC)](https://www.eui.eu/en/projects/clic).
 
-I hold a BA and a MA (with distinction) in Political Science from Goethe-University Frankfurt am Main and a MRes in Political and Social Sciences from the EUI.
+My main research interests are in parental investment and child development. In my dissertation project I study whether parental investment into children differs for siblings in the same family and which parenting logics underlie these decisions.
 
+Please find [my CV here](https://janniktrack.github.io/files/CV_April_24_JT.pdf). 
 
 Contact
 -------
